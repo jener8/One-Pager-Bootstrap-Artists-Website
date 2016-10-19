@@ -1,0 +1,633 @@
+# Webalizer V2.23-08 Incremental Data - 09/04/2016 21:55:25
+2016 9 4 21 55 25
+418 386 55 98 7 29 19458202 98 62 0 0 0
+15 80 80 1 4
+104 98 4751151 21 17 12 0 0
+40 36 983419 23 25 17 0 0
+174 157 8924099 23 35 19 0 0
+100 95 4799533 15 21 14 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 1 8479 1 0 0
+0 0 0 0 0 0
+7 5 200533 7 0 0
+6 6 79700 5 0 0
+18 15 563112 5 0 0
+13 4 178381 12 0 0
+1 1 8479 1 0 0
+4 4 33916 4 0 0
+10 10 285824 9 0 0
+4 4 33916 4 0 0
+0 0 0 0 0 0
+14 14 207155 12 0 0
+2 2 16958 2 0 0
+0 0 0 0 0 0
+14 14 175101 2 0 0
+3 3 17802 2 0 0
+67 65 4073189 3 0 0
+4 4 76021 4 0 0
+5 4 39407 3 0 0
+69 66 3995306 4 0 0
+20 16 704150 7 0 0
+82 76 4410630 4 0 0
+68 67 4200533 2 0 0
+6 5 149610 5 0 0
+0
+0
+0
+386
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+6
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/versuchsfeld_thumbnail3.jpg
+1 1 0 49213 0 0 0 0
+/images/versuchsfeld_thumbnail2.jpg
+1 2 0 108594 0 0 0 0
+/images/speicherundvideokamera_2011.jpg
+1 5 0 308405 0 0 0 0
+/scripts/jquery-1.8.3.min.js
+1 7 0 234010 0 0 0 0
+/images/Leicester_Building_2_2016.jpg
+1 5 0 630035 0 0 0 0
+/images/citysurfaces3.jpg
+1 4 0 117152 0 0 0 0
+/images/hospital1_2012.jpg
+1 4 0 337708 0 0 0 0
+/images/Gruenes_Gebaeude_2016.jpg
+1 4 0 729224 0 0 0 0
+/images/Spellmann2_thumbnail.jpg
+1 1 0 63139 0 0 0 0
+/images/fassade241_2014.jpg
+1 4 0 330112 0 0 0 0
+/images/nordmeile_thumbnail3.jpg
+1 2 0 131804 0 0 0 0
+/English/pages/projectsEn.html
+0 2 0 35901 1 0 0 0
+/English.html
+0 8 0 434080 8 1 0 0
+/images/flags_England.png
+1 4 0 7192 0 0 0 0
+/images/Wohnhaus_5_2015.jpg
+1 3 0 201345 0 0 0 0
+/images/ministerium_2014cropu43640.jpg
+1 4 0 278944 0 0 0 0
+/images/eckloesung.jpg
+1 4 0 293692 0 0 0 0
+/images/mauer_baum_vpt24.jpg
+1 4 0 343916 0 0 0 0
+/images/versuchsfeld_gallery.jpg
+1 1 0 60539 0 0 0 0
+/images/buerohaus-2.jpg
+1 4 0 286320 0 0 0 0
+/images/ptmeiche_2011.jpg
+1 4 0 243604 0 0 0 0
+/pages/projects.html
+0 4 0 19212 0 1 0 0
+/images/Spellmann1_thumbnail.jpg
+1 1 0 64734 0 0 0 0
+/images/nests1_thumbnail.jpg
+1 1 0 60254 0 0 0 0
+/images/Neubau_2.jpg
+1 4 0 278352 0 0 0 0
+/images/mauerformstein_2009.jpg
+1 4 0 360244 0 0 0 0
+/pages/Impressum.html
+0 3 0 19522 0 0 0 0
+/images/magdeburg2_1999.jpg
+1 4 0 238812 0 0 0 0
+/images/Spellmann3_thumbnail.jpg
+1 2 0 55258 0 0 0 0
+/images/holzfassade1_HeinSpellmann_2012.jpg
+1 3 0 188823 0 0 0 0
+/images/flags_Germany.png
+1 4 0 2456 0 0 0 0
+/images/versuchsfeld_thumbnail1.jpg
+1 1 0 56899 0 0 0 0
+/images/waschhaus_99.jpg
+1 4 0 311340 0 0 0 0
+/English/pages/ArticleEn.html
+0 5 0 56370 3 0 0 0
+/images/parkhaus1_2012.jpg
+1 4 0 157180 0 0 0 0
+/images/hochhaus_1994.jpg
+1 4 0 320732 0 0 0 0
+/images/nests3_thumbnail.jpg
+1 1 0 47344 0 0 0 0
+/images/voruebergehen_Vermietet_thumbnail1.jpg
+1 1 0 64665 0 0 0 0
+/images/nordmeile_thumbnail2.jpg
+1 1 0 67458 0 0 0 0
+/images/neubau1_2014.jpg
+1 4 0 252344 0 0 0 0
+/images/pt15_2011.jpg
+1 4 0 246176 0 0 0 0
+/images/voruebergehen_Vermietet_thumbnail4.jpg
+1 2 0 126914 0 0 0 0
+/images/pt13_2009.jpg
+1 4 0 171852 0 0 0 0
+/images/blutspendevlm.jpg
+1 4 0 291992 0 0 0 0
+/images/nordmeile_thumbnail1.jpg
+1 1 0 42318 0 0 0 0
+/css/style.css
+1 8 0 18832 0 0 0 0
+/images/blauefenster2_2000.jpg
+1 4 0 276988 0 0 0 0
+/images/pt14_2009.jpg
+1 4 0 240116 0 0 0 0
+/images/buerohaus3.jpg
+1 3 0 187140 0 0 0 0
+/images/union_of_tents_thumbnail2.jpg
+1 1 0 79943 0 0 0 0
+/images/nests_gallery.jpg
+1 1 0 41599 0 0 0 0
+/images/treppenhaus18_2014.jpg
+1 5 0 468460 0 0 0 0
+/images/sie_hatte_schwarze_haare_thumbnail.jpg
+1 1 0 25347 0 0 0 0
+/images/wohngruppeneu.jpg
+1 4 0 217044 0 0 0 0
+/images/fassade237_2014.jpg
+1 4 0 243248 0 0 0 0
+/images/vpt22_2008.jpg
+1 4 0 250392 0 0 0 0
+/images/Hotel_2015.jpg
+1 3 0 214137 0 0 0 0
+/pages/Article.html
+0 4 0 31316 1 0 0 0
+/css/Grid_styles.css
+1 1 0 1329 0 0 0 0
+/images/voruebergehen_Vermietet_gallery.jpg
+1 1 0 61656 0 0 0 0
+/images/union_of_tents_thumbnail3.jpg
+1 1 0 56816 0 0 0 0
+/css/medium-style.css
+1 9 0 7596 0 0 0 0
+/images/Artwork_sideways.jpg
+1 3 0 402942 0 0 0 0
+/images/fliesen_2000.jpg
+1 4 0 250688 0 0 0 0
+/images/Ausstellungsansicht_BS2.jpg
+1 4 0 344180 0 0 0 0
+/images/tu1.jpg
+1 4 0 203724 0 0 0 0
+/bootstrap/css/bootstrap.min.css
+1 8 0 159064 0 0 0 0
+/scripts/jquery-1.12.1.min.js
+1 6 0 203172 0 0 0 0
+/scripts/jquery_theme.js
+1 6 0 5256 0 0 0 0
+/
+0 56 0 1072195 45 15 0 0
+/images/nordmeile_gallery.jpg
+1 2 0 146506 0 0 0 0
+/images/magdeburg1_1998.jpg
+1 3 0 170199 0 0 0 0
+/images/union_of_tents_gallery.jpg
+1 2 0 101384 0 0 0 0
+/images/sie_hatte_wanne_mit_ukulele_thumbnail.jpg
+1 2 0 50734 0 0 0 0
+/images/krankengymnastik2013.jpg
+1 4 0 207000 0 0 0 0
+/images/sie_hatte_schwarze_haare_gallery.jpg
+1 1 0 46625 0 0 0 0
+/images/lichtenberg_1998.jpg
+1 3 0 162939 0 0 0 0
+/images/emptybuilding_bristol_2010.jpg
+1 4 0 174524 0 0 0 0
+/images/cityhostel_2014.jpg
+1 3 0 191103 0 0 0 0
+/bootstrap/js/bootstrap.min.js
+1 6 0 58470 0 0 0 0
+/images/rasche1.jpg
+1 4 0 322072 0 0 0 0
+/images/plasm_Spellmann_2013.jpg
+1 4 0 273136 0 0 0 0
+/images/Fassade277_2016.jpg
+1 3 0 367527 0 0 0 0
+/images/vpt1_2008.jpg
+1 3 0 285951 0 0 0 0
+/images/Zapf_gallery.jpg
+1 2 0 101190 0 0 0 0
+/images/zulaessigeabweichung2_2008.jpg
+1 5 0 327470 0 0 0 0
+/images/vpt24_2009.jpg
+1 3 0 186678 0 0 0 0
+/images/Hein.jpg
+1 4 0 435112 0 0 0 0
+/images/Fassade_259_2015.jpg
+1 6 0 386814 0 0 0 0
+/images/union_of_tents_thumbnail1.jpg
+1 1 0 64209 0 0 0 0
+/images/fassade221_2013.jpg
+1 5 0 339180 0 0 0 0
+/images/sie_hatte_craviola_thumbnail.jpg
+1 1 0 22304 0 0 0 0
+/images/fassade238_2014.jpg
+1 4 0 360604 0 0 0 0
+/English/pages/Imprint.html
+0 1 0 13007 0 0 0 0
+/images/luckenwalde.jpg
+1 5 0 292200 0 0 0 0
+/images/nests2_thumbnail.jpg
+1 1 0 63784 0 0 0 0
+/images/fassade227_2013.jpg
+1 4 0 346048 0 0 0 0
+/bootstrap/js/jquery.js
+1 5 0 166120 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-76-21.googlebot.com
+0 5 4 56915 3 1472878050 0 0
+-
+spider-141-8-132-43.yandex.com
+0 7 7 59353 4 1472976255 0 0
+/
+static.83.71.76.144.clients.your-server.de
+0 1 1 54260 1 1472936320 0 0
+/English.html
+188.227.19.62
+0 1 1 8479 1 1472801434 0 0
+/
+173.252.120.104
+0 1 1 68284 0 0 0 0
+-
+baiduspider-180-76-15-143.crawl.baidu.com
+0 1 1 876 0 0 0 0
+-
+69.63.188.223
+0 1 1 67836 0 0 0 0
+-
+crawl-66-249-65-136.googlebot.com
+0 1 1 8479 1 1473021586 0 0
+/
+msnbot-157-55-39-105.search.msn.com
+0 4 4 55433 0 0 0 0
+-
+crawl-66-249-64-215.googlebot.com
+0 2 2 9323 1 1472706848 0 0
+/
+120.27.103.132
+0 3 1 51966 1 1472783025 0 0
+-
+spider-141-8-142-8.yandex.com
+0 1 1 8479 1 1472976255 0 0
+/
+82.193.127.15.cl.ipnet.ua
+0 3 3 28903 1 1472902696 0 0
+/English/pages/projectsEn.html
+crawl-66-249-65-132.googlebot.com
+0 3 3 25437 3 1473002414 0 0
+/
+baiduspider-180-76-15-15.crawl.baidu.com
+0 1 1 8479 1 1472807095 0 0
+/
+static.172.123.4.46.clients.your-server.de
+0 1 1 11274 1 1472697756 0 0
+/English/pages/ArticleEn.html
+static.210.112.40.188.clients.your-server.de
+0 1 1 54260 1 1472784088 0 0
+/English.html
+crawl-66-249-76-19.googlebot.com
+0 2 2 10833 1 1473019455 0 0
+/
+msnbot-157-55-39-92.search.msn.com
+0 4 4 114105 0 0 0 0
+-
+69.30.213.138
+0 1 1 11274 1 1472935156 0 0
+/English/pages/ArticleEn.html
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 33430 0 0 0 0
+-
+static.132.145.9.5.clients.your-server.de
+0 1 1 54260 1 1472936320 0 0
+/English.html
+msnbot-157-55-39-239.search.msn.com
+0 5 4 254186 1 1472943619 0 0
+/
+ip5f5bf0a1.dynamic.kabel-deutschland.de
+0 150 138 8288283 3 1473026125 0 0
+/
+a88-112-58-20.elisa-laajakaista.fi
+0 5 5 78824 1 1472701442 0 0
+/English/pages/ArticleEn.html
+crawl-66-249-76-20.googlebot.com
+0 6 3 10739 3 1472930380 0 0
+/
+69.30.211.2
+0 1 1 51754 1 1472815739 0 0
+/
+crawl-66-249-76-15.googlebot.com
+0 3 3 25437 3 1472914041 0 0
+/
+mj7.naefmarco.ch
+0 4 3 112199 2 1472840322 0 0
+/
+static.207.94.9.5.clients.your-server.de
+0 5 5 218478 1 1472977677 0 0
+/pages/Impressum.html
+31.13.97.107
+0 1 1 86512 0 0 0 0
+-
+62-210-90-118.rev.poneytelecom.eu
+0 2 2 65461 1 1472857483 0 0
+/pages/Article.html
+msnbot-157-55-39-127.search.msn.com
+0 5 5 188405 0 0 0 0
+-
+msnbot-207-46-13-21.search.msn.com
+0 3 3 183248 0 0 0 0
+-
+crawl-66-249-76-16.googlebot.com
+0 5 4 52734 2 1473008565 0 0
+/
+mj12bot.com
+0 9 9 200626 3 1472902504 0 0
+/English/pages/ArticleEn.html
+static.3.120.4.46.clients.your-server.de
+0 1 1 11201 1 1472771700 0 0
+/pages/Article.html
+178.32.127.112
+0 2 2 103508 1 1472964858 0 0
+/
+crawl-66-249-76-17.googlebot.com
+0 6 6 92728 1 1472902122 0 0
+/
+178-137-87-242-broadband.kyivstar.net
+0 10 1 53679 1 1472881924 0 0
+/
+static.85.48.243.136.clients.your-server.de
+0 3 3 25437 3 1473017871 0 0
+/
+static.118.17.9.5.clients.your-server.de
+0 1 1 51754 1 1472936320 0 0
+/
+crawl-66-249-64-211.googlebot.com
+0 2 2 9323 1 1472791886 0 0
+/
+crawl-66-249-64-232.googlebot.com
+0 2 2 10833 1 1472817996 0 0
+/
+23.ip-192-99-54.net
+0 1 1 8479 1 1472969123 0 0
+/
+095-097-221-022.static.chello.nl
+0 64 63 3969483 1 1472942974 0 0
+/
+msnbot-40-77-167-22.search.msn.com
+0 3 3 242504 0 0 0 0
+-
+173.252.74.105
+0 1 1 93692 0 0 0 0
+-
+mj2.naefmarco.ch
+0 1 1 31279 1 1472956237 0 0
+/English/pages/projectsEn.html
+lvps92-51-165-187.dedicated.hosteurope.de
+0 1 1 51754 1 1472881419 0 0
+/
+msnbot-207-46-13-2.search.msn.com
+0 2 2 18224 1 1472741424 0 0
+/
+static.44.54.251.148.clients.your-server.de
+0 1 1 51754 1 1472784087 0 0
+/
+62-47-201-151.adsl.highway.telekom.at
+0 64 63 3969483 1 1472748808 0 0
+/
+baiduspider-180-76-15-26.crawl.baidu.com
+0 1 1 8479 1 1472895092 0 0
+/
+crawl-66-249-64-207.googlebot.com
+0 2 2 35784 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+spider-141-8-132-43.yandex.com
+0 1 1 8479 1 1472976255 0 0
+/
+baiduspider-180-76-15-143.crawl.baidu.com
+0 1 1 876 0 0 0 0
+-
+crawl-66-249-65-136.googlebot.com
+0 1 1 8479 1 1473021586 0 0
+/
+spider-141-8-142-8.yandex.com
+0 1 1 8479 1 1472976255 0 0
+/
+crawl-66-249-65-132.googlebot.com
+0 3 3 25437 3 1473002414 0 0
+/
+crawl-66-249-76-19.googlebot.com
+0 1 1 8479 1 1473019455 0 0
+/
+ip5f5bf0a1.dynamic.kabel-deutschland.de
+0 79 74 4309163 1 1473026125 0 0
+/
+crawl-66-249-76-20.googlebot.com
+0 1 1 844 0 0 0 0
+-
+static.207.94.9.5.clients.your-server.de
+0 5 5 218478 1 1472977677 0 0
+/pages/Impressum.html
+crawl-66-249-76-16.googlebot.com
+0 1 1 8479 1 1473008565 0 0
+/
+178.32.127.112
+0 2 2 103508 1 1472964858 0 0
+/
+static.85.48.243.136.clients.your-server.de
+0 1 1 8479 1 1473017871 0 0
+/
+23.ip-192-99-54.net
+0 1 1 8479 1 1472969123 0 0
+/
+msnbot-40-77-167-22.search.msn.com
+0 1 1 50595 0 0 0 0
+-
+mj2.naefmarco.ch
+0 1 1 31279 1 1472956237 0 0
+/English/pages/projectsEn.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://heinspellmann.de/
+1 6
+http://www.heinspellmann.de/index.html
+1 62
+http://r.search.yahoo.com/_ylt
+0 1
+- (Direct Request)
+0 134
+http://www.heinspellmann.de/
+1 181
+http://www.heinspellmann.de/pages/projects.html
+1 32
+http://www.heinspellmann.de/css/style.css
+1 2
+# End Of Table - referrers
+# -agents- 
+Spider: Googlebot
+2 39
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130331 Firefox/21.0
+1 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0
+1 2
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0
+1 1
+Browser: MSIE
+2 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.32
+1 10
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 23
+Browser: Firefox
+2 75
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20130331 Firefox/21.0
+1 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 26
+Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; WOW64; en-US; rv:2.0.4) Gecko/20120718 AskTbAVR-IDW/3.12.5.17700 Firefox/14.0.1
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0
+1 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 7
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+1 28
+Safari/11601.6.17 CFNetwork/760.5.1 Darwin/15.5.0 (x86_64)
+1 6
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.169 Safari/537.22
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko)
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+1 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17
+1 143
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0
+1 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+1 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/601.7.8
+1 64
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:14.0) Gecko/20100101 Firefox/14.0.1
+1 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+1 1
+Browser: Safari
+2 229
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+1 64
+Spider: MJ12bot
+2 28
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/27.0.1453 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 9
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
+14
+# -notfounderrors- 
+/css/flags.png
+5
+/apple-touch-icon-precomposed.png
+2
+/apple-touch-icon.png
+2
+/news.html
+0
+/Vita_Hein_Spellmann_English.pdf
+0
+/Impressum.html
+0
+/.well-known/apple-app-site-association
+0
+/.well-known/assetlinks.json
+0
+/apple-app-site-association
+0
+/blog/
+0
+/wordpress/
+0
+/wp/
+0
+/
+1
+/bootstrap/js/scripts.js
+1
+# End Of Table - notfounderrors

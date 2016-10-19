@@ -1,0 +1,7 @@
+RewriteEngine off
+DirectoryIndex webalizer.html
+AuthUserFile /www/htdocs/w013fc1f/heinspellmann.de/usage/.htpasswd
+AuthGroupFile /dev/null
+AuthName 'ByPassword'
+AuthType Basic
+require valid-user

@@ -1,0 +1,208 @@
+@media screen and (min-width: 1501px) {
+        /*
+    img.active {
+
+         top: 70%;
+     }
+*/
+    }
+
+    @media screen and (max-width: 1500px) and (min-width: 1166px) {
+        .thumbnail-container {
+            margin-left: 1px;
+        }
+        img.active {
+            top: 50%;
+        }
+    }
+
+    @media screen and (max-width: 1165px) and (min-width: 771px) {
+        .panel-about {
+            height: 60vh;
+            overflow: auto;
+        }
+        img.active {
+            top: 48%;
+        }
+    }
+
+/*
+@media (max-width: 767px)  @grid-float-breakpoint -1
+{
+    .navbar-fixed-top
+    {
+        position: fixed!important;
+        top: 0;
+    }
+    #fotoobjecten{
+        margin-top: 50px;
+    }
+    .main-pic-div img {
+        display: none;
+    }
+
+}
+*/
+
+
+    @media screen and (max-width: 770px) and (min-width: 501px) {
+        .navbar-brand {
+            display: block;
+        }
+        #contact {
+            height: auto;
+        }
+        #about {
+            height: auto;
+        }
+
+        .navbar-fixed-top
+        {
+            position: fixed!important;
+            top: 0;
+        }
+        #fotoobjecten{
+            margin-top: 50px;
+        }
+
+
+    }
+
+    @media screen and (max-width: 500px) and (min-width: 321px) {
+
+
+
+body{
+    margin-left:0!important;
+    margin-right:0!important;
+}
+
+
+    .non_active {
+        max-height: 50vh!important;
+    }
+
+    .panel-body {
+        display: none;
+    }
+
+    .project-thumbnail {
+        padding-bottom: 6px!important;
+        padding-left: 3px!important;
+        padding-right: 3px!important;
+    }
+
+    .container-projects-header {
+        padding-top: 30px!important;
+    }
+
+    #fotoobjecten {
+        margin-top: 5%;
+    }
+/*
+.main-pic-div img {
+    display: none;
+}
+*/
+
+}
+@media screen and (max-width: 320px) {
+    #contact {
+        min-height: 80vh!important;
+    }
+
+    nav {
+        margin-bottom: 0!important;
+    }
+
+/*
+    p,
+    hr {
+        display: none
+    }
+*/
+
+    p.small-devices {
+        display: inline;
+        color: white;
+    }
+
+    .container-projects-header {
+        padding-top: 0px!important;
+    }
+
+    #section1 {
+        height: 10px!important;
+    }
+
+    .btn.btn-lg.model-button p {
+        display: none;
+    }
+
+    .panel-body {
+        display: none;
+    }
+
+    .project-thumbnail {
+        padding-bottom: 6px!important;
+        padding-left: 3px!important;
+        padding-right: 3px!important;
+    }
+
+    #thumbs{
+        opacity: 1;
+    }
+    .main-pic-div img {
+        display: none;
+    }
+    #thumbs{
+        width: 45%;
+    }
+
+    #home {
+        background: url(../../images/Plakatwand1_2015.jpg) no-repeat center center;
+    }
+
+/*
+    .thumbnail-container {
+        width: 20%;
+    }
+*/
+
+    img.non_active {
+        display: none!important;
+    }
+
+    img.active {
+        display: none!important;
+    }
+
+    .panel-home {
+        display: none!important;
+    }
+
+    .sweden {
+        display: none!important;
+    }
+
+
+/*
+    .navbar-fixed-top {
+        position: static!important;
+    }
+*/
+
+}
+
+/*
+@media screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2){
+    .thumbnail-wrap{
+        width: 20%;
+    }
+    .thumbnails{
+        max-width: 100%;
+    }
+
+
+}
+*/
